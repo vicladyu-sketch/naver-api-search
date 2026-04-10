@@ -9,7 +9,6 @@ import urllib.request
 import urllib.parse
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
-import koreanize_matplotlib
 import numpy as np
 from collections import Counter
 import re
